@@ -1,0 +1,6 @@
+Daftar Makanan Favorit
+  1. Ayam Goreng
+  2. Seblak
+  3. Nasi goreng
+  4. Mie Ayam
+  5. Baso
